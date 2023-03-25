@@ -265,21 +265,6 @@ Untuk frontend menggunakan bootstrap 5.2 dan css murni sebagai tambahan.
 	   </div>
 	```
 
-<!-- screenshot-page -->
-## Screenshot Page
-
-Screenshot diambil dari website 000webhost setelah project di hosting
-
-*Halaman Login
-<p align="center">
-  <img src="assets/_login.png" alt="home" width="700px">
-</p>
-
-*Halaman Signup
-<p align="center">
-  <img src="assets/_signup.png" alt="home" width="700px">
-</p>
-
 *Halaman Utama
 <p align="center">
   <img src="assets/_home.png" alt="home" width="700px">
@@ -293,24 +278,4 @@ Screenshot diambil dari website 000webhost setelah project di hosting
 *Halaman About
 <p align="center">
   <img src="assets/_about.png" alt="home" width="700px">
-</p>
-
-*Halaman Manage
-<p align="center">
-  <img src="assets/_manage.png" alt="home" width="700px">
-</p>
-
-*Halaman Tambah Produk
-<p align="center">
-  <img src="assets/_tambah_produk.png" alt="home" width="700px">
-</p>
-
-*Halaman Edit Produk
-<p align="center">
-  <img src="assets/_update.png" alt="home" width="700px">
-</p>
-
-*Halaman Edit User
-<p align="center">
-  <img src="assets/_edit_user.png" alt="home" width="700px">
 </p>
